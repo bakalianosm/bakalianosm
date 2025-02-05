@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Django, ReactJS, PyTorch**
 
-- 📄 Know about my experiences [https://michailbakalianoscv.tiiny.site](https://michailbakalianoscv.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

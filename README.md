@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michail Bakalianos</h1>
-<h3 align="center">MSc in Data Science student, fueled by a passion for data and a lifelong love affair with computers and programming.</h3>
+<h3 align="center">AI Engineer, fueled by a passion for data and a lifelong love affair with computers and programming.</h3>
 
 - 🌱 I’m currently learning about **LLMs, MCP and AI Agents**.
 
